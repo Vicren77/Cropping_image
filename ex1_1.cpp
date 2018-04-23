@@ -4,8 +4,6 @@
 //
 
 #include "stdafx.h"
-#include "test.h"
-#include "method.h"
 #include<opencv\highgui.h>
 #include<opencv\cv.h>
 #include <iostream>
